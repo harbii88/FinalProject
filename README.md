@@ -6,4 +6,4 @@ I create a new annotation which receive either add or sort. This annotation will
 
 The student should add their name, number and the class object that contain the annotation, After checking code the result will save locally.
 
-The result can be viewed locally by typing: http://localhost:8080/grades.
+The result can be viewed locally by typing: http://localhost:8080/grades. 
